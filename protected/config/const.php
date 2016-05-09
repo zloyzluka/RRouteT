@@ -12,7 +12,7 @@ defined('SYSTEM_PATH') or define('SYSTEM_PATH', PROTECTED_PATH.'system'.DS);
 
 defined('GMAP_KEY') or define('GMAP_KEY', 'AIzaSyA1m-PUSpuIQ9hMdfzPIqeLFHjUQ_Z-YfQ');
 defined('RR_USER') or define('RR_USER','yaroslav.chesnokov.vl@gmail.com');
-defined('RR_PWD') or define('RR_PWD',md5('qwerty'));
+defined('RR_PWD') or define('RR_PWD','');
 defined('RR_DEVID') or define('RR_DEVID','e138231a68ad82f054e3d756c6634ba1');
 defined('RR_CAT') or define('RR_CAT','RocketRoute');
-defined('RR_MD5') or define('RR_MD5','6x4wPNFBfcbrLsLzGBAH');
+defined('RR_MD5') or define('RR_MD5','');
